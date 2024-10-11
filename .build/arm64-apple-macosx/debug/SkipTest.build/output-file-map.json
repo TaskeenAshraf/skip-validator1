@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SkipTest.build/master.swiftdeps"
+  },
+  "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/checkouts/skip/Sources/SkipTest/XCGradleHarness.swift": {
+    "dependencies": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SkipTest.build/XCGradleHarness.d",
+    "object": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SkipTest.build/XCGradleHarness.swift.o",
+    "swiftmodule": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SkipTest.build/XCGradleHarness~partial.swiftmodule",
+    "swift-dependencies": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SkipTest.build/XCGradleHarness.swiftdeps"
+  }
+}

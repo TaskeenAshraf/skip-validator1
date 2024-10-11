@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<testsuites>
+<testsuite name="TestResults" errors="0" tests="2" failures="0" time="31.060666875">
+<testcase classname="SKIPValidatorTests.XCSkipTests" name="testSkipModule" time="15.530325833">
+</testcase>
+<testcase classname="SKIPValidatorTests.SKIPValidatorTests" name="testSKIPValidator" time="15.530341042">
+</testcase>
+</testsuite>
+</testsuites>

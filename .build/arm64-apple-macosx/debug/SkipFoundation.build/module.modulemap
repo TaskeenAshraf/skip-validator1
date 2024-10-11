@@ -1,0 +1,4 @@
+module SkipFoundation {
+    header "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SkipFoundation.build/SkipFoundation-Swift.h"
+    requires objc
+}

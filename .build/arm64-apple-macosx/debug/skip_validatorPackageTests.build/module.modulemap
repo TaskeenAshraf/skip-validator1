@@ -1,0 +1,4 @@
+module skip_validatorPackageTests {
+    header "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/skip_validatorPackageTests.build/skip-validatorPackageTests-Swift.h"
+    requires objc
+}

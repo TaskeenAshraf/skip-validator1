@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SKIPValidatorTests.build/master.swiftdeps"
+  },
+  "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/Tests/SKIPValidatorTests/SKIPValidatorTests.swift": {
+    "dependencies": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SKIPValidatorTests.build/SKIPValidatorTests.d",
+    "object": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SKIPValidatorTests.build/SKIPValidatorTests.swift.o",
+    "swiftmodule": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SKIPValidatorTests.build/SKIPValidatorTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SKIPValidatorTests.build/SKIPValidatorTests.swiftdeps"
+  },
+  "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/Tests/SKIPValidatorTests/XCSkipTests.swift": {
+    "dependencies": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SKIPValidatorTests.build/XCSkipTests.d",
+    "object": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SKIPValidatorTests.build/XCSkipTests.swift.o",
+    "swiftmodule": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SKIPValidatorTests.build/XCSkipTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SKIPValidatorTests.build/XCSkipTests.swiftdeps"
+  },
+  "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SKIPValidatorTests.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SKIPValidatorTests.build/resource_bundle_accessor.d",
+    "object": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SKIPValidatorTests.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SKIPValidatorTests.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SKIPValidatorTests.build/resource_bundle_accessor.swiftdeps"
+  },
+  "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/plugins/outputs/skip-validator/SKIPValidatorTests/destination/skipstone/SKIPValidatorTestsSwiftBridge.swift": {
+    "dependencies": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SKIPValidatorTests.build/SKIPValidatorTestsSwiftBridge.d",
+    "object": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SKIPValidatorTests.build/SKIPValidatorTestsSwiftBridge.swift.o",
+    "swiftmodule": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SKIPValidatorTests.build/SKIPValidatorTestsSwiftBridge~partial.swiftmodule",
+    "swift-dependencies": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/SKIPValidatorTests.build/SKIPValidatorTestsSwiftBridge.swiftdeps"
+  }
+}

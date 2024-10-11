@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/skip_validatorPackageTests.build/master.swiftdeps"
+  },
+  "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/skip-validatorPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/skip_validatorPackageTests.build/runner.d",
+    "object": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/skip_validatorPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/skip_validatorPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/taskeenashraf/Downloads/newSKIPFramework/skip-validator/.build/arm64-apple-macosx/debug/skip_validatorPackageTests.build/runner.swiftdeps"
+  }
+}
